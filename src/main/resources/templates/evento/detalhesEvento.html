@@ -3,7 +3,7 @@
 	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
 <head>
 <meta charset="utf-8">
-<title>Insert title here</title>
+<title>EventosApp</title>
 <!--Import Google Icon Font-->
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
 	rel="stylesheet" />
@@ -60,12 +60,16 @@
 			<tr>
 				<th>Nome Convidado</th>
 				<th>RG</th>
+				<th>Deletar</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr th:each="convidado : ${convidados}" style="border: none">
 				<td><span th:text="${convidado.nome}"></span></td>
 				<td><span th:text="${convidado.rg}"></span></td>
+				<td><a
+					th:href="${(#mvc.url('EC#deletaConvidado').arg(0, convidado.rg)).build()}"><i
+						class="material-icons left">delete</i></a></td>
 			</tr>
 		</tbody>
 	</table>
