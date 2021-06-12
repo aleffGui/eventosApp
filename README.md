@@ -3,7 +3,7 @@
 * Cadastrar um novo evento 
 * Editar ou remover um evento existente 
 * Exibir a lista completa de eventos cadastrados 
-* Incluir e remover convidados de um evento
+* Incluir ou remover convidados de um evento
 
 ![Eventos app](https://i.ibb.co/qjtq1bQ/inicial.png)
 
