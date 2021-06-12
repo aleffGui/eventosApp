@@ -7,7 +7,7 @@
 * Exibir a lista completa de eventos cadastrados 
 * Incluir ou remover convidados de um evento
 
-![paginaInicial](https://i.ibb.co/qjtq1bQ/inicial.png)
+![paginaInicial](https://i.ibb.co/svT2XJS/inicial.png)
 
 
 
