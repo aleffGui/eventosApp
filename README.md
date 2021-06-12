@@ -9,7 +9,6 @@
 
 ![paginaInicial](https://i.ibb.co/svT2XJS/inicial.png)
 
-![cadastroEventos](https://i.ibb.co/rwtd3VQ/cadastro-Eventos.png)
 
 
 
