@@ -1,5 +1,5 @@
 # Eventos App
-## Foi desenvolvido um CRUD completo para um sistema simples de gerenciamento de eventos. 
+## Foi desenvolvido um CRUD completo para um sistema simples de gerenciamento de eventos, com deploy realizado no Heroku. Você pode acessar [clicando aqui](eventosappweb.herokuapp.com/). 
 
  O sistema inclui as seguintes funcionalidades: 
 * Cadastrar um novo evento 
