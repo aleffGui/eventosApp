@@ -6,6 +6,7 @@
 * Editar ou remover um evento existente 
 * Exibir a lista completa de eventos cadastrados 
 * Incluir ou remover convidados de um evento
+* 
 ![paginaInicial](https://i.ibb.co/qjtq1bQ/inicial.png)
 
 
