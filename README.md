@@ -7,7 +7,7 @@
 * Exibir a lista completa de eventos cadastrados 
 * Incluir ou remover convidados de um evento
 
-![Eventos app](https://i.ibb.co/qjtq1bQ/inicial.png)
+![Eventos app](https://i.ibb.co/qjtq1bQ/inicial.png = 300x150)
 
 
 
